@@ -37,7 +37,7 @@ html::-webkit-scrollbar-thumb{
 }
 
 body{
-/*      background:rgb(15, 15, 15);  */
+     background:rgb(15, 15, 15); 
     overflow-x: hidden;
     padding-left: 35rem;
 }
@@ -177,8 +177,8 @@ header .navbar ul li a:hover{
 }
 
 .about{
-   background-image: url(./img/bg2.jpg) ;
-/*     background : rgb(15, 15, 15); */
+/*    background-image: url(./img/bg2.jpg) ; */
+    background : rgb(15, 15, 15);
     position: relative;
 }
 
