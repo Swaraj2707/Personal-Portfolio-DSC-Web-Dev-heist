@@ -177,7 +177,7 @@ header .navbar ul li a:hover{
 }
 
 .about{
-    background-image: url(img/bg2.jpg) ;
+    background-image: url(/img/bg2.jpg) ;
     position: relative;
 }
 
