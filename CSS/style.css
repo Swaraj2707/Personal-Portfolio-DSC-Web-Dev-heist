@@ -177,7 +177,7 @@ header .navbar ul li a:hover{
 }
 
 .about{
-    background-image: url(img/bg2.jpg) ;
+    background-image: url(/img/bg2.jpg) ;
     position: relative;
 }
 
@@ -295,7 +295,7 @@ header .navbar ul li a:hover{
     background:var(--blue);
 }
 .skills{
-    background-image: url(img/bg3.jpg) ;
+    background-image: url(/img/bg3.jpg) ;
     position: relative;
 }
 .skills .box-container{
