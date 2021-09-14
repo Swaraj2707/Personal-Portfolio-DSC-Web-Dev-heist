@@ -178,6 +178,7 @@ header .navbar ul li a:hover{
 
 .about{
    /* background-image: url(/img/bg2.jpg) ; */
+    background : rgb(15, 15, 15);
     position: relative;
 }
 
